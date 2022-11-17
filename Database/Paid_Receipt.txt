@@ -1,0 +1,131 @@
+Ma hoa don: 0
+Ma khach hang: 15
+Ten: Tran Hong Duc
+CMND: 201830502
+Ngay sinh: 22/2/2002
+SDT: 0934456987
+Dia chi: 12 Hoang Dieu
+Phong: 404	Loai phong: Standard
+Ngay thue phong: 15/12/2021
+Ngay tra phong: 16/12/2021
+Tong cong: 600000 VND
+
+Ma hoa don: 1
+Ma khach hang: 0
+Ten: Pham Tien Huu
+CMND: 201850340
+Ngay sinh: 19/4/2002
+SDT: 093255127
+Dia chi: 22 Nguyen Dinh Tran
+Phong: 101	Loai phong: Standard
+Ngay thue phong: 12/12/2021
+Ngay tra phong: 16/12/2021
+Tong cong: 2400000 VND
+
+Ma hoa don: 2
+Ma khach hang: 0
+Ten: Pham Tien Huu
+CMND: 201850340
+Ngay sinh: 19/4/2002
+SDT: 093255127
+Dia chi: 22 Nguyen Dinh Tran
+Phong: 404	Loai phong: Standard
+Ngay thue phong: 15/12/2021
+Ngay tra phong: 17/12/2021
+Tong cong: 1200000 VND
+
+Ma hoa don: 3
+Ma khach hang: 6
+Ten: Hoang Thi Nga
+CMND: 2018933821
+Ngay sinh: 18/7/1985
+SDT: 0908271882
+Dia chi: 12 Pham Van Dong
+Phong: 101	Loai phong: Standard
+Ngay thue phong: 17/12/2021
+Ngay tra phong: 17/12/2021
+Tong cong: 0 VND
+
+Ma hoa don: 4
+Ma khach hang: 0
+Ten: Pham Tien Huu
+CMND: 201850340
+Ngay sinh: 19/4/2002
+SDT: 093255127
+Dia chi: 22 Nguyen Dinh Tran
+Phong: 101	Loai phong: Standard
+Ngay thue phong: 12/11/2021
+Ngay tra phong: 14/11/2021
+Tong cong: 1200000 VND
+
+Ma hoa don: 5
+Ma khach hang: 18
+Ten: Phan Van Tuan
+CMND: 2008638192
+Ngay sinh: 29/7/1996
+SDT: 0902827112
+Dia chi: 53 Bach Dang
+Phong: 101	Loai phong: Standard
+Ngay thue phong: 15/12/2021
+Ngay tra phong: 17/12/2021
+Tong cong: 1200000 VND
+
+Ma hoa don: 8
+Ma khach hang: 0
+Ten: Pham Tien Huu
+CMND: 201850340
+Ngay sinh: 19/4/2002
+SDT: 093255127
+Dia chi: 22 Nguyen Dinh Tran
+Phong: 301	Loai phong: Standard
+Ngay thue phong: 16/12/2021
+Ngay tra phong: 17/12/2021
+Tong cong: 600000 VND
+
+Ma hoa don: 7
+Ma khach hang: 19
+Ten: Hoang Thi Diem Quynh
+CMND: 2007281832
+Ngay sinh: 29/1/2001
+SDT: 0903928192
+Dia chi: 19 Phan Tu
+Phong: 101	Loai phong: Standard
+Ngay thue phong: 17/12/2021
+Ngay tra phong: 18/12/2021
+Tong cong: 600000 VND
+
+Ma hoa don: 8
+Ma khach hang: 0
+Ten: Pham Tien Huu
+CMND: 201850340
+Ngay sinh: 19/4/2002
+SDT: 093255127
+Dia chi: 22 Nguyen Dinh Tran
+Phong: 101	Loai phong: Standard
+Ngay thue phong: 18/12/2021
+Ngay tra phong: 18/12/2021
+Tong cong: 0 VND
+
+Ma hoa don: 9
+Ma khach hang: 0
+Ten: Pham Tien Huu
+CMND: 201850340
+Ngay sinh: 19/4/2002
+SDT: 093255127
+Dia chi: 22 Nguyen Dinh Tran
+Phong: 101	Loai phong: Standard
+Ngay thue phong: 17/12/2021
+Ngay tra phong: 19/12/2021
+Tong cong: 1200000 VND
+
+Ma hoa don: 10
+Ma khach hang: 0
+Ten: Pham Tien Huu
+CMND: 201850340
+Ngay sinh: 19/4/2002
+SDT: 093255127
+Dia chi: 22 Nguyen Dinh Tran
+Phong: 101	Loai phong: Standard
+Ngay thue phong: 18/12/2021
+Ngay tra phong: 19/12/2021
+Tong cong: 600000 VND

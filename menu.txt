@@ -1,0 +1,11 @@
+x=======================================================x
+|		      	DxH HOTEL			|
+x=======================================================x
+|		1. Dat phong				|
+|		2. Tra phong				|
+|		3. Tra cuu hoa don			|
+|		4. In danh sach phong			|
+|		5. In danh sach khach hang		|
+|		6. Thong ke doanh thu			|
+|		7. Thoat				|
+x=======================================================x
